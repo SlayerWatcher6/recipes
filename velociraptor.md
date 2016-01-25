@@ -1,6 +1,12 @@
 #VELOCIRAPTOR
 
+## Ingredients
+
 -dino dna
 -frog dna
--egg
--Smile
+-Water
+-magic
+
+## Instructions
+
+-mix DNA with water
